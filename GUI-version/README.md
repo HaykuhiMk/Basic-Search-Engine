@@ -42,14 +42,17 @@ To run this project, ensure you have the following:
 
 
 Install any additional dependencies by running:
+
 ```pip install -r requirements.txt```
 
 ### Running the Search Engine
 1. Clone the Repository:
   ```git clone https://github.com/HaykuhiMk/Basic-Search-Engine.git```
+
   ```cd ./Basic-Search-Engine/GUI-version```
 
-2. Run the GUI:
+3. Run the GUI:
+   
   ```python3 main.py```
 
 
