@@ -41,5 +41,5 @@ Represents the frequency of a word in a specific file.
 Contains attributes for the file name and word count.
 ## How to Run
 ### Clone the Repository:
-**git clone https://github.com/your-username/basic-search-engine.git
-cd basic-search-engine**
+`git clone https://github.com/your-username/basic-search-engine.git
+cd basic-search-engine`
