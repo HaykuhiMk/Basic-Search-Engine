@@ -1,14 +1,14 @@
-# Basic Search Engine
+# Basic Search Engine with GUI
 
-A simple yet effective search engine application that indexes text files within a specified directory and allows users to search for words across these files through a user-friendly graphical interface.
+This project is a Python-based Basic Search Engine that provides functionality for indexing and searching through text files. It includes a graphical user interface (GUI) built with the Tkinter library, which allows users to easily interact with the search engine through an intuitive and simple interface. The project is divided into two main components: the search engine logic implemented in Python (search_engine.py) and the graphical interface (search_engine_GUI.py).
 
 ## Table of Contents
 
 - [Features](#features)
 - [Demo](#demo)
+- [Project Structure](#project-structure)
 - [Installation](#installation)
 - [Usage](#usage)
-- [Project Structure](#project-structure)
 - [Contributing](#contributing)
 - [License](#license)
 
@@ -26,6 +26,11 @@ A simple yet effective search engine application that indexes text files within 
 
 *Screenshot of the Basic Search Engine GUI showcasing the indexing and search functionalities.*
 
+## Project Structure
+- **search_engine.py:** This file contains the core logic for the search engine. It includes the BasicSearchEngine class, which handles file indexing and searching, and the WordInfo class, which stores information about occurrences of words in files. Users can search for keywords, and the search engine will return the text files where the words are found, along with a relevance score based on the number of occurrences.
+
+- **search_engine_GUI.py:** This file contains the GUI implementation using Tkinter. The graphical interface allows users to easily index files, perform searches, and view the content of indexed files. It also provides options for full-screen mode and has interactive widgets for selecting files and displaying results.
+
 ## Installation
 
 ### Prerequisites
@@ -35,8 +40,10 @@ A simple yet effective search engine application that indexes text files within 
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/basic-search-engine.git
+git clone https://github.com/HaykuhiMk/Basic-Search-Engine.git
 cd basic-search-engine```
 
 ### Install Dependencies
 The project uses standard Python libraries, so no additional installations are required. However, it's recommended to use a virtual environment.
+
+
