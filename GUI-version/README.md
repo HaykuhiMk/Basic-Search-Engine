@@ -41,13 +41,13 @@ To run this project, ensure you have the following:
 ### Running the Search Engine
 1. **Clone the Repository:**
    
-  ```git clone https://github.com/HaykuhiMk/Basic-Search-Engine.git```
+```git clone https://github.com/HaykuhiMk/Basic-Search-Engine.git```
 
-  ```cd ./Basic-Search-Engine/GUI-version```
+```cd ./Basic-Search-Engine/GUI-version```
 
 2. **Run the GUI:**
-   
-   ```python3 main.py```
+
+```python3 main.py```
    
 3. **Indexing Files:**
 
