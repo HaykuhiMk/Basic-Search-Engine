@@ -14,11 +14,11 @@ This project implements a simple text-based search engine using Python. It index
 ## Features
 **File Indexing:** Indexes text files from a specified folder, storing the frequency of each word in each file.
 Search Functionality: Allows users to search for words and displays the relevant files sorted by word frequency.
-**~ View Indexed File Content:** Users can view the content of indexed files directly.
-**~ Interactive Menu:** Provides a simple menu interface for users to navigate through different options.
+**View Indexed File Content:** Users can view the content of indexed files directly.
+**nteractive Menu:** Provides a simple menu interface for users to navigate through different options.
 
 ## Technologies Used
-**~ Python:** The project is written entirely in Python, utilizing core libraries such as os and re for file management and regular expressions.
+**Python:** The project is written entirely in Python, utilizing core libraries such as os and re for file management and regular expressions.
 
 ## Project Structure
 **search_engine.py:** Contains the core functionality for the search engine, including indexing files, searching for words, and displaying results.
