@@ -34,6 +34,7 @@ This project implements a simple text-based search engine using Python. It index
 ## Class Descriptions
 - **BasicSearchEngine:** Manages file indexing and search functionality.
 Uses a dictionary to store indexed words and their associated WordInfo objects.
+
 - **WordInfo:** Represents the frequency of a word in a specific file.
 Contains attributes for the file name and word count.
 ## How to Run
