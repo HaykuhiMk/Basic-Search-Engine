@@ -7,9 +7,9 @@ This project is a Python-based Basic Search Engine that provides functionality f
 - [Features](#features)
 - [Demo](#demo)
 - [Project Structure](#project-structure)
-- [Installation](#installation)
 - [Usage](#usage)
-- [Contributing](#contributing)
+- [Example Use Case](#example-use-case)
+- [Future Enhancements](#future-enhancements)
 - [License](#license)
 
 ## Features
@@ -73,8 +73,22 @@ Install any additional dependencies by running:
   
 ## Example Use Case
 - You can use this project to index and search through a collection of text files, such as website content, articles, or research papers. For example, you could index all .txt files in a folder, search for specific keywords, and then quickly identify the most relevant documents for further reading.
-   
 
+## Future Enhancements
+Some potential future improvements for this project include:
+
+- **Phrase Searching:** Allow users to search for exact phrases rather than individual words.
+- **File Type Support:** Expand the file indexing to support other text formats such as .pdf and .docx.
+- **Database Integration:** Store the index data in a database for faster searching in larger datasets.
+
+## Contribution Guidelines
+If you wish to contribute to this project, feel free to submit a pull request. Before contributing, please:
+
+1. Fork the repository.
+2. Create a new branch for your feature or bug fix.
+3. Write descriptive commit messages.
+4. Make sure the code follows PEP 8 standards.
+5. Test the application to ensure that everything works correctly.
 
 
 
