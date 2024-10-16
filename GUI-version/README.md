@@ -46,19 +46,35 @@ Install any additional dependencies by running:
 ```pip install -r requirements.txt```
 
 ### Running the Search Engine
-1. Clone the Repository:
+1. **Clone the Repository:**
+   
   ```git clone https://github.com/HaykuhiMk/Basic-Search-Engine.git```
 
   ```cd ./Basic-Search-Engine/GUI-version```
 
-3. Run the GUI:
+2. **Run the GUI:**
    
-  ```python3 main.py```
+   ```python3 main.py```
+   
+3. **Indexing Files:**
 
+- Click the "Index Web Pages" button in the GUI.
+- Select the folder containing .txt files that you want to index.
+- Once the indexing is complete, you will receive feedback in the GUI indicating the number of files indexed.
 
+4. **Performing a Search:**
 
-### Install Dependencies
-The project uses standard Python libraries, so no additional installations are required. However, it's recommended to use a virtual environment.
+- In the search bar, enter the word or phrase you want to search for.
+- Click the "Search" button to see the results, which will display the matching files and their relevance scores.
+
+5. **Viewing File Content:**
+
+- After performing a search, you can click the "View File" button to select and view the contents of any of the indexed files.
+  
+## Example Use Case
+- You can use this project to index and search through a collection of text files, such as website content, articles, or research papers. For example, you could index all .txt files in a folder, search for specific keywords, and then quickly identify the most relevant documents for further reading.
+   
+
 
 
 
