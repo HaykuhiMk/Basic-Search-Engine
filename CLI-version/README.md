@@ -4,13 +4,13 @@ This project implements a simple text-based search engine using Python. It index
 
 ## Table of Contents
 
-### ~ Features
-### ~ Technologies Used
-### ~ Project Structure
-### ~ Class Descriptions
-### ~ How to Run
-### ~ Example Usage
-### ~ Future Improvements
+- [Features](#features)
+- [Technologies Used](#technologies-used)
+- [Project Structure](#project-structure)
+- [Class Descriptions](#class-descriptions)
+- [How to Run](#how-to-run)
+- [Example Usage](#example-usage)
+- [Future Improvements](#future-improvements)
 
 ## Features
 **File Indexing:** Indexes text files from a specified folder, storing the frequency of each word in each file.
