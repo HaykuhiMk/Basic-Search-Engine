@@ -63,7 +63,9 @@ You can view the full content of any indexed file by entering its name.
 
 ## Future Improvements
 ~ Add support for more file types (e.g., HTML, PDF).
+
 ~ Implement a more sophisticated relevance algorithm.
+
 ~ Enhance the user interface with more detailed search analytics.
 
 ## Contributing
