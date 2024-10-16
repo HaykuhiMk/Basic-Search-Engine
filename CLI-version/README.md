@@ -51,14 +51,13 @@ Contains attributes for the file name and word count.
 
 ## Example Usage
 **Index Files:**
-
 The search engine will automatically index all .txt files in the specified folder.
 It will store the occurrence of each unique word in those files.
+
 **Search for a Word:**
-
 Enter the search query, and the engine will display files where the word is found, sorted by word frequency.
-**View File Content:**
 
+**View File Content:**
 You can view the full content of any indexed file by entering its name.
 
 ## Future Improvements
