@@ -41,7 +41,7 @@ Contains attributes for the file name and word count.
 ### 1. Clone the Repository:
 ```git clone https://github.com/HaykuhiMk/Basic-Search-Engine.git```
 
-```cd basic-search-engine```
+```cd ./Basic-Search-Engine/CLI-version/```
 
 ### 2. Run the Search Engine:
 ```python3 main.py```
