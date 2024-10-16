@@ -38,6 +38,10 @@ To run this project, ensure you have the following:
 - Python 3.6+
 - Tkinter (Comes pre-installed with most Python distributions)
 
+Install any additional dependencies by running:
+
+```pip install -r requirements.txt```
+
 ### Running the Search Engine
 1. **Clone the Repository:**
    
