@@ -9,7 +9,8 @@ This project implements a simple text-based search engine using Python. It index
 ### ~ Project Structure
 ### ~ Class Descriptions
 ### ~ How to Run
-### ~ Contributing
+### ~ Example Usage
+### ~ Future Improvements
 
 ## Features
 **File Indexing:** Indexes text files from a specified folder, storing the frequency of each word in each file.
@@ -41,8 +42,32 @@ Represents the frequency of a word in a specific file.
 Contains attributes for the file name and word count.
 ## How to Run
 ### 1. Clone the Repository:
-`git clone https://github.com/your-username/basic-search-engine.git
+`git clone https://github.com/your-username/basic-search-engine.git`
 
-cd basic-search-engine`
+`cd basic-search-engine`
 
-### 2. Prepare the Web Pages:
+### 2. Run the Search Engine:
+`python3 main.py`
+
+## Example Usage
+**Index Files:**
+
+The search engine will automatically index all .txt files in the specified folder.
+It will store the occurrence of each unique word in those files.
+**Search for a Word:**
+
+Enter the search query, and the engine will display files where the word is found, sorted by word frequency.
+**View File Content:**
+
+You can view the full content of any indexed file by entering its name.
+
+## Future Improvements
+~ Add support for more file types (e.g., HTML, PDF).
+~ Implement a more sophisticated relevance algorithm.
+~ Enhance the user interface with more detailed search analytics.
+
+## Contributing
+Contributions are welcome! If you find any issues or want to add new features, feel free to open an issue or submit a pull request.
+
+## License
+This project is licensed under the MIT License. See the LICENSE file for details.
