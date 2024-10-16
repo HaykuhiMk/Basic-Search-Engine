@@ -39,8 +39,7 @@ This project is a Python-based Basic Search Engine that provides functionality f
 
 ### Clone the Repository
 
-```bash
-git clone https://github.com/HaykuhiMk/Basic-Search-Engine.git
+```git clone https://github.com/HaykuhiMk/Basic-Search-Engine.git
 cd basic-search-engine```
 
 ### Install Dependencies
