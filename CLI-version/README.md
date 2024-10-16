@@ -12,7 +12,7 @@ This project implements a simple text-based search engine using Python. It index
 ### ~ Contributing
 
 ## Features
-**~ File Indexing:** Indexes text files from a specified folder, storing the frequency of each word in each file.
+**File Indexing:** Indexes text files from a specified folder, storing the frequency of each word in each file.
 Search Functionality: Allows users to search for words and displays the relevant files sorted by word frequency.
 **~ View Indexed File Content:** Users can view the content of indexed files directly.
 **~ Interactive Menu:** Provides a simple menu interface for users to navigate through different options.
