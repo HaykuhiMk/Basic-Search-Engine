@@ -22,7 +22,9 @@ Search Functionality: Allows users to search for words and displays the relevant
 
 ## Project Structure
 **search_engine.py:** Contains the core functionality for the search engine, including indexing files, searching for words, and displaying results.
+
 **search_engine_utils.py:** Provides the user interface and manages the interaction with the BasicSearchEngine class.
+
 **WordInfo:** A helper class that stores information about a word’s occurrence in a file, including the file name and count.
 
 ## Class Descriptions
