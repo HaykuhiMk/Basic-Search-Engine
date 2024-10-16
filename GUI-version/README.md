@@ -37,3 +37,6 @@ A simple yet effective search engine application that indexes text files within 
 ```bash
 git clone https://github.com/yourusername/basic-search-engine.git
 cd basic-search-engine
+
+### Install Dependencies
+The project uses standard Python libraries, so no additional installations are required. However, it's recommended to use a virtual environment.
