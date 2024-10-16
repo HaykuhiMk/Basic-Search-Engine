@@ -40,10 +40,11 @@ Contains attributes for the file name and word count.
 ## How to Run
 ### 1. Clone the Repository:
 ```git clone https://github.com/your-username/basic-search-engine.git ```
+
 ```cd basic-search-engine```
 
 ### 2. Run the Search Engine:
-```python3 main.py````
+```python3 main.py```
 
 ## Example Usage
 - **Index Files:**
