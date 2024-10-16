@@ -7,8 +7,8 @@ This project implements a simple text-based search engine using Python. It index
 ### ~ Features
 ### ~ Technologies Used
 ### ~ Project Structure
-### ~ How to Run the Program for Client
-### ~ Usage
+### ~ Class Descriptions
+### ~ How to Run
 ### ~ Contributing
 
 ## Features
@@ -39,5 +39,7 @@ Uses a dictionary to store indexed words and their associated WordInfo objects.
 
 Represents the frequency of a word in a specific file.
 Contains attributes for the file name and word count.
-How to Run
-Clone the Repository:
+## How to Run
+### Clone the Repository:
+**git clone https://github.com/your-username/basic-search-engine.git
+cd basic-search-engine**
