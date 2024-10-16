@@ -23,9 +23,7 @@ This project is a Python-based Basic Search Engine that provides functionality f
 
 ## Demo
 
-![Search Engine GUI Screenshot](screenshots/gui_screenshot.png)
-
-*Screenshot of the Basic Search Engine GUI showcasing the indexing and search functionalities.*
+![Search Engine GUI Screenshot](Screenshots/gui_screenshot.png)
 
 ## Project Structure
 - **search_engine.py:** This file contains the core logic for the search engine. It includes the BasicSearchEngine class, which handles file indexing and searching, and the WordInfo class, which stores information about occurrences of words in files. Users can search for keywords, and the search engine will return the text files where the words are found, along with a relevance score based on the number of occurrences.
