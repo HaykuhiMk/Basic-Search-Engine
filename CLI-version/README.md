@@ -39,7 +39,7 @@ Uses a dictionary to store indexed words and their associated WordInfo objects.
 Contains attributes for the file name and word count.
 ## How to Run
 ### 1. Clone the Repository:
-```git clone [https://github.com/HaykuhiMk/Basic-Search-Engine/tree/main/CLI-version)](https://github.com/HaykuhiMk/Basic-Search-Engine.git)```
+```git clone https://github.com/HaykuhiMk/Basic-Search-Engine.git```
 
 ```cd basic-search-engine```
 
