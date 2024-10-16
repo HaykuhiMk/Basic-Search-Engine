@@ -1,7 +1,6 @@
-# gui.py
 import os
 import tkinter as tk
-from tkinter import ttk, messagebox, scrolledtext, simpledialog, filedialog
+from tkinter import ttk, messagebox, scrolledtext, filedialog
 import search_engine as se
 
 class SearchEngineGUI:
