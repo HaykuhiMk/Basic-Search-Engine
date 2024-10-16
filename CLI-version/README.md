@@ -68,6 +68,3 @@ You can view the full content of any indexed file by entering its name.
 
 ## Contributing
 Contributions are welcome! If you find any issues or want to add new features, feel free to open an issue or submit a pull request.
-
-## License
-This project is licensed under the MIT License. See the LICENSE file for details.
